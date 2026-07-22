@@ -14,7 +14,15 @@ The goal was to quantitatively assess recent price volatility and forecast the t
 * **Python Stack:** NumPy, Pandas, scikit-learn, Matplotlib.
 
 ## Visual Summary
-*(Place your Figure 2 or Figure 3 image here)*
+
+### Historical Data
+![Historical Data](./assets/Historical%20data.png)
+
+### Mean Price Calibration
+![Mean Price Calibration](./assets/Mean%20price%20calibration.png)
+
+### OU Simulation
+![Simulation OU](./assets/Simulation_OU.png)
 
 ## Project Structure
 - `notebooks/`: Contains the Jupyter Notebook (`analysis.ipynb`) with the full mathematical derivation and simulations.
